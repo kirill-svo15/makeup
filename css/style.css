@@ -8,7 +8,7 @@
 
 @font-face{
     font-family: 'Impact', sans-serif;
-    src: url('../fonts/impact.ttf');
+    src: url('./fonts/impact.ttf');
 }
 
 html{
